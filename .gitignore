@@ -1,9 +1,35 @@
-_site
+# maven ignore
+target/
+catalina.base_IS_UNDEFINED/
+
+# kdiff3 ignore
+*.orig
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.springBeans
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
 .DS_Store
-.jekyll
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
+Thumbs.db
+
+# package ignore (optional)
+*.zip
+*.tar
+*.tar.gz
