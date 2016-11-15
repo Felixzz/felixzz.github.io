@@ -75,3 +75,8 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+comments :
+     provider : duoshuo
+     duoshuo :
+     short_name : felixzz
