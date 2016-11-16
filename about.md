@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Felix 孙健
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My Job：Coder
+
+2013.2——2015.6 Oracle
+
+2015.6——2016.10 Didi
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[felix.sunjian@gmail.com](mailto:felix.sunjian@gmail.com)
