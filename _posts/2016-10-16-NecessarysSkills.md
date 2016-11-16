@@ -14,4 +14,4 @@ keywords: Java, 技能
 
 ## Java程序员必备技能脑图
 
-[![_config.yml]({{ site.baseurl }}/images/post/necessarysSkills.png)]({{ site.baseurl }}/images/post/necessarysSkills.png)
+[![Java程序员必备技能脑图](http://ogqrbglrc.bkt.clouddn.com/blog/javaskill.png)](http://ogqrbglrc.bkt.clouddn.com/blog/javaskill.png)
