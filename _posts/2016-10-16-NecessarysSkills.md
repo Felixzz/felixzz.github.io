@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Java程序员必备技能
+title:Java程序员必备技能
+categories: Java
+description: Java程序员必备技能
+keywords: Java, 技能
 ---
 
 ##此文来由
