@@ -8,14 +8,18 @@ menu: 关于
 permalink: /about/
 ---
 
-Felix 孙健 Coder
+##### Basic Info
+
+* Name: Felix 孙健 
+
+* Job : Coder
 
 ##### Work Experiences
 
-* 2013.02 ~ 2015.06 Oracle
+* 2013.02 ~ 2015.06  Oracle
 
-* 2015.06 ~ 2016.10 滴滴出行
+* 2015.06 ~ 2016.10  滴滴出行
 
 ##### Contact me
 
-[felix.sunjian[at]gmail.com](mailto:felix.sunjian@gmail.com)
+* Email: [felix.sunjian[at]gmail.com](mailto:felix.sunjian@gmail.com)
