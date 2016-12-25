@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Vim
+title: Vim常用命令
 categories: Vim
 description: 个人最常用的 Vim 常用操作。
 keywords: Vim
