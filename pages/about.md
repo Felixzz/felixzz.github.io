@@ -22,4 +22,4 @@ permalink: /about/
 
 ##### Contact me
 
-* message here ^_^
+* Message here ^_^
