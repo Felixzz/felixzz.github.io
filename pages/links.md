@@ -12,12 +12,18 @@ permalink: /links/
 
 *  [码志](http://mazhuang.org)
 
-Fork人家的模板, 纵使相逢虽不识, 但有感激在心间
+   ```text
+   Fork人家的模板, 纵使相逢虽不识, 但有感激在心间
+   ```
 
 *  [KevG](http://tech.kevg.info/)
 
-一辈子的好基友
+   ```text
+   好基友
+   ```
 
 *  [孙大天大白](http://www.ellasunspace.com/)
 
-画的一手好漫画的开发!!!  性别女.. 少有的女性朋友
+   ```text
+   画的一手好漫画的开发!!!  性别女..
+   ```
