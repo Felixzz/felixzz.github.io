@@ -13,7 +13,7 @@ keywords: Tool, Java, Activemq, Spring
 
 ### 1.引言
 
-```java
+```text
  Map<String, String> map = new HashMap<String, String>() {{
     put("key1", "value1");
     put("key2", "value2");
@@ -50,17 +50,17 @@ Thread thread = new Thread(new Runnable() {
 ```
 #### 3.3 如引言所示
 
-```java
- Map<String, String> map = new HashMap<String, String> {{
+```text
+ Map<String, String> map = new HashMap<String, String>() {{
     put("key1", "value1");
     put("key2", "value2");
- }}
+ }};
 ```
-1和2都明白，但两对大括号什么鬼？
+``3.1``和``3.2``都明白，但两对大括号什么鬼？
 分析：
 
 * 此匿名内部类是继承HashMap
 * 但并没有重写HashMap方法
 * 之前被外表的假象所迷惑，继承方法可以添加方法嘛，只是方法比较特殊，是实例化代码块
 
-问题解决
+**至此问题解决**
