@@ -34,6 +34,7 @@ keywords: Tool, Java, Activemq, Spring
 #### 3.1 java awt 中 常用的实现监听器的动作
 
 实现Listener接口的匿名类
+
 代码略
 
 #### 3.2 线程实现处理方法
@@ -51,6 +52,7 @@ Thread thread = new Thread(new Runnable() {
 #### 3.3 如引言所示
 
 ``3.1``和``3.2``都明白，但两对大括号什么鬼？
+
 要是这么写是不是好很多，^_^
 ```java
  Map<String, String> map = new HashMap<String, String>() {
