@@ -14,10 +14,10 @@ keywords: Tool, Java, Activemq, Spring
 ### 1.引言
 
 ```java
-     Map<String, String> map = new HashMap<String, String>(){{
-        put("key1", "value1");
-        put("key2", "value2");
-     }};
+ Map<String, String> map = new HashMap<String, String>() {{
+    put("key1", "value1");
+    put("key2", "value2");
+ }};
 ```
 不知道你第一次看到这代码时候什么感觉，我当时是懵逼了。。此文解决！
 
@@ -31,30 +31,30 @@ keywords: Tool, Java, Activemq, Spring
 
 ### 3.常用的地方
 
-1. java awt 中 常用的实现监听器的动作
+#### 3.1 java awt 中 常用的实现监听器的动作
 
 实现Listener接口的匿名类
 代码略
 
-2. 线程实现处理方法
+#### 3.2 线程实现处理方法
 
 实现Runnable接口的匿名类：
 ```java
-    Thread thread = new Thread(new Runnable() {
-        public void run() {
-            for (int i = 1; i <= 5; i++) {
-                System.out.println(i);
-            }
+Thread thread = new Thread(new Runnable() {
+    public void run() {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println(i);
         }
-    });
+    }
+});
 ```
-3. 如引言所示
+#### 3.3 如引言所示
 
 ```java
-     Map<String, String> map = new HashMap<String, String>{{
-        put("key1", "value1");
-        put("key2", "value2");
-     }}
+ Map<String, String> map = new HashMap<String, String> {{
+    put("key1", "value1");
+    put("key2", "value2");
+ }}
 ```
 1和2都明白，但两对大括号什么鬼？
 分析：
