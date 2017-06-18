@@ -14,10 +14,10 @@ keywords: Tool, Java, Activemq, Spring
 ### 1.引言
 
 ```java
-     Map<String, String> map = new HashMap<String, String>{{
+     Map<String, String> map = new HashMap<String, String>(){{
         put("key1", "value1");
         put("key2", "value2");
-     }}
+     }};
 ```
 不知道你第一次看到这代码时候什么感觉，我当时是懵逼了。。此文解决！
 
